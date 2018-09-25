@@ -1,0 +1,40 @@
+_repo: Prometheus-Geboeid_57697
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Boutens, P. C.
+    aliases:
+    - Boutens, Pieter Cornelis
+    - De Hoghe, Andries
+    - Hoghe, Andries de
+    - Boutens, Petrus Cornelis
+    birthdate: 1870
+    deathdate: 1943
+    gutenberg_agent_id: '4086'
+    url: http://www.gutenberg.org/2009/agents/4086
+    wikipedia: http://www.dbnl.nl/auteurs/auteur.php3?id=bout005
+creator:
+  author:
+    agent_name: Aeschylus
+    aliases:
+    - Αισχύλος
+    - Aischylos
+    - Αἰσχύλος
+    birthdate: -525
+    deathdate: -456
+    gutenberg_agent_id: '2825'
+    url: http://www.gutenberg.org/2009/agents/2825
+    wikipedia: http://en.wikipedia.org/wiki/Aeschylus
+description: ''
+gutenberg_issued: '2018-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57697'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Prometheus Geboeid
+url: http://www.gutenberg.org/ebooks/57697
