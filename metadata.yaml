@@ -1,5 +1,5 @@
 _repo: Prometheus-Geboeid_57697
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Boutens, P. C.
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '4086'
     url: http://www.gutenberg.org/2009/agents/4086
     wikipedia: http://www.dbnl.nl/auteurs/auteur.php3?id=bout005
+covers:
+- cover_type: archival
+  image_path: 57697-h/images/cover.jpg
 creator:
   author:
     agent_name: Aeschylus
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2825
     wikipedia: http://en.wikipedia.org/wiki/Aeschylus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57697#Prometheus-Geboeid
 gutenberg_issued: '2018-08-14'
 gutenberg_type: Text
 identifiers:
